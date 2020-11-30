@@ -31,7 +31,7 @@ The application will help administrators monitor their student based on their pr
  
 -Login info: If your app has a login page, provide a demo user:
 
-For now, there is no need to input username  and password to login.
+ input username: "admin" and password "abc123" to login.
 
 -Versions or other requirements: If you use an API, special installation, or version of Java (above 8) or SceneBuilder (above3):
 
